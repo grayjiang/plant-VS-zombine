@@ -1,0 +1,9 @@
+gray 500
+Mike 90
+Peter 80
+Lili 70
+Aron 60
+Abel 50
+Abner 40
+Abraham 30
+Adam 0
